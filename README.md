@@ -64,7 +64,7 @@ In my future graduate studies (focusing on Computer Vision and Data Science), I 
 ## 🙏 6. Acknowledgements (特别感谢)
 This project wouldn't have been possible without the brilliant team behind it.
 
-- **Academic Advisor:** [Vice-Prof. Xie WenQian] (Zhejiang University) - *For his invaluable guidance on hardware integration and system architecture.*
+- **Academic Advisor:** [Vice-Prof. Xie WenQian] (Zhejiang University) - *For her invaluable guidance on hardware integration and system architecture.*
 - **Team Members:** [Li Ming, Wang Hua] - *For their dedication in mechanical design, data annotation, and hardware testing.*
 - **Lab Support:** [ Smart Vision Lab at ZJSU] - *For providing the equipment and testing environment.*
 
