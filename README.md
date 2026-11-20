@@ -64,9 +64,9 @@ In my future graduate studies (focusing on Computer Vision and Data Science), I 
 ## 🙏 6. Acknowledgements (特别感谢)
 This project wouldn't have been possible without the brilliant team behind it.
 
-- **Academic Advisor:** [填写指导老师的名字/拼音，比如 Prof. Zhang] (Zhejiang University) - *For his invaluable guidance on hardware integration and system architecture.*
-- **Team Members:** [填写队友名字，比如 Li Ming, Wang Hua] - *For their dedication in mechanical design, data annotation, and hardware testing.*
-- **Lab Support:** [填写实验室/学院名称，比如 Smart Vision Lab at ZJSU] - *For providing the equipment and testing environment.*
+- **Academic Advisor:** [Vice-Prof. Xie WenQian] (Zhejiang University) - *For his invaluable guidance on hardware integration and system architecture.*
+- **Team Members:** [Li Ming, Wang Hua] - *For their dedication in mechanical design, data annotation, and hardware testing.*
+- **Lab Support:** [ Smart Vision Lab at ZJSU] - *For providing the equipment and testing environment.*
 
 ---
 <div align="center">
