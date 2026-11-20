@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪵 Wood-Block Sorting Robot
+#  Wood-Block Sorting Robot
 ### A Real-time YOLOv5 Visual Inspection System on Edge Device
 
 [![Competition](https://img.shields.io/badge/Award-Zhejiang_Provincial_Third_Prize-blue)]()
