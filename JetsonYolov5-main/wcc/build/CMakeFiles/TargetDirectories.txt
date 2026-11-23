@@ -1,0 +1,6 @@
+/home/jetson/Documents/JetsonYolov5-main/wcc/build/CMakeFiles/yolov5_seg.dir
+/home/jetson/Documents/JetsonYolov5-main/wcc/build/CMakeFiles/edit_cache.dir
+/home/jetson/Documents/JetsonYolov5-main/wcc/build/CMakeFiles/yolov5_cls.dir
+/home/jetson/Documents/JetsonYolov5-main/wcc/build/CMakeFiles/myplugins.dir
+/home/jetson/Documents/JetsonYolov5-main/wcc/build/CMakeFiles/rebuild_cache.dir
+/home/jetson/Documents/JetsonYolov5-main/wcc/build/CMakeFiles/yolov5_det.dir
