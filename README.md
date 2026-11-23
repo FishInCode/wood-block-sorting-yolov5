@@ -35,5 +35,7 @@ A real-time visual inspection and sorting system for a conveyor-belt robotic arm
 *   **Academic Advisors:** [Prof.Zhu] at [ZJSU], for his guidance on system architecture.
 *   **Team Members:** [Miss Yu & Miss Lu], for their collaboration in mechanical design and hardware testing.
 
+## 🤖 About repository
+*  **This repostory include the project code, introduction video, project PPT and project report submitted in competition.
 ---
 *Maintained by FishInCode. For more details, please feel free to contact me.*
