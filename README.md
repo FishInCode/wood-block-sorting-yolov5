@@ -3,6 +3,8 @@
 ## 🚀 Project Overview
 A real-time visual inspection and sorting system for a conveyor-belt robotic arm. Developed for the **Zhejiang Provincial AI Competition**, this system detects defects in wood blocks and triggers a 6-DOF arm to separate them.
 
+![](Robotic Arm Structure Details.png)
+
 ### 🛠️ Tech Stack
 *   **Software:** Python, C, YOLOv5, OpenCV，TensorRT
 *   **Edge Deployment:** NVIDIA Jetson Nano
@@ -36,6 +38,6 @@ A real-time visual inspection and sorting system for a conveyor-belt robotic arm
 *   **Team Members:** [Miss Yu & Miss Lu], for their collaboration in mechanical design and hardware testing.
 
 ## 🤖 About repository
-*  **This repostory include the project code, introduction video, project PPT and project report submitted in competition.
+*  **This repostory include the main source code, introduction video, project PPT and project report submitted in competition.
 ---
 *Maintained by FishInCode. For more details, please feel free to contact me.*
